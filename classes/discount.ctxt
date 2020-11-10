@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ discount()
+comment1.params=a
+comment1.target=void\ discount(int)
+comment2.params=p\ q
+comment2.target=void\ discount(int,\ int)
+comment3.params=m\ n\ o
+comment3.target=void\ discount(int,\ int,\ int)
+comment4.params=
+comment4.target=void\ main()
+numComments=5
